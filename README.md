@@ -1,3 +1,7 @@
+## Research interests
+My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on 1)security and resilient trust-based systems in the 
+service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused performance evaluation in 5G-enabled Internet of Vehicles.
+
 ## Education
 - PhD in Computer Science at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 
