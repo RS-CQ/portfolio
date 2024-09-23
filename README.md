@@ -15,7 +15,7 @@
 -Loria/Inria, University of Lorraine
 -Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/)
 
-- Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)**
+- Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
 -Department of Computer Science, ENSEM (Teaching)
 -Loria, University of Lorraine (Research)
 
@@ -28,8 +28,8 @@
 8. Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. "Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems." DCOSS-IoT 2024. 2024. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 
 ## Teaching Experience
--2021-2022  (Engineer's/Master's degree, at ENSEM) : 1. Algorithmes et programmation;     2. Algorithmique et Programmation orientée objet
+-2021-2022  (Engineer's/Master's degree, at ENSEM): 1). Algorithms and programming (Python); &emsp; 2). Algorithms and object-oriented programming (Python+Java)
 
--2022-2023  (Engineer's/Master's degree, at ENSEM) : 1. Cycle outil logiciel;      2. Algorithmes et programmation;      3. Algorithmique et Programmation orientée objet;      4. Réseaux de capteurs
+-2022-2023  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming;&ensp 3). Algorithms and object-oriented programming; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
--2023-2024  (Engineer's/Master's degree, at ENSEM) : 1. Cycle outil logiciel;      2. Algorithmes et programmation;      3. Algorithmique et Programmation orientée objet;      4. Réseaux de capteurs;      5. Base de données;      6.  Algorithmique, structures de données;      7. Intégration numérique avec microcontrôleurs;      8. Cryptographie, Cyber-sécurité des systèmes industries;      9. Systèmes Distribués, Services web et Blockchain;10. Mise en oeuvre d'une Application d'Internet des objets;      11. Programmation systèmes et langage C;12. BE Vision par ordinateur : Twizzy;      13. Systèmes distribués et répartis :Edge/Fog computing;      14. Base de données
+-2023-2024  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming; &emsp; 3). Algorithms and object-oriented programming; &emsp; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); &emsp; 5). Databases (SQL + MongoDB)      &emsp; 6).  Algorithms of data structures (Java); &emsp; 7). Digital integration with microcontrollers (IoT + Arduino); &emsp; 8). Cryptography, Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, Cybersecurity: firewall + attack test); &emsp; 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); &emsp; 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); &emsp; 11). C language coding; &emsp; 12).Twizzy Project (Real-time road sign recognition based Twizzy car); &emsp; 13). Distributed systems: Edge/Fog computing (same as No.9); 
