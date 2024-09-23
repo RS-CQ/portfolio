@@ -38,11 +38,11 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 
 
 ## Teaching Experience
--2021-2022  (Engineer's/Master's degree, at ENSEM): 1). Algorithms and programming (Python); &emsp; 2). Algorithms and object-oriented programming (Python+Java)
+-2021-2022 at ENSEM: 1). Algorithms and programming (Python); &emsp; 2). Algorithms and object-oriented programming (Python+Java)
 
--2022-2023  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming;&ensp 3). Algorithms and object-oriented programming; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
+-2022-2023 at ENSEM: 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming;&ensp 3). Algorithms and object-oriented programming; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
--2023-2024  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming; &emsp; 3). Algorithms and object-oriented programming; &emsp; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); &emsp; 5). Databases (SQL + MongoDB)      &emsp; 6).  Algorithms of data structures (Java); &emsp; 7). Digital integration with microcontrollers (IoT + Arduino); &emsp; 8). Cryptography, Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, Cybersecurity: firewall + attack test); &emsp; 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); &emsp; 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); &emsp; 11). C language coding; &emsp; 12).Twizzy Project (Real-time road sign recognition based Twizzy car); &emsp; 13). Distributed systems: Edge/Fog computing (same as No.9); 
+-2023-2024 at ENSEM: 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming; &emsp; 3). Algorithms and object-oriented programming; &emsp; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); &emsp; 5). Databases (SQL + MongoDB)      &emsp; 6).  Algorithms of data structures (Java); &emsp; 7). Digital integration with microcontrollers (IoT + Arduino); &emsp; 8). Cryptography, Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, Cybersecurity: firewall + attack test); &emsp; 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); &emsp; 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); &emsp; 11). C language coding; &emsp; 12).Twizzy Project (Real-time road sign recognition based Twizzy car); &emsp; 13). Distributed systems: Edge/Fog computing (same as No.9); 
 
 ## Peer-review Service
 1. Elsevier Computer Networks Journal (_2023 - Present_)
