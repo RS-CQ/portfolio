@@ -9,7 +9,7 @@
 -Dual degrees with Engineer's degree, University of Lorraine (_June 2020_)	 			        		
 
 ## Work Experience
-**Reserach Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)**
+**Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)**
 - Loria/Inria, University of Lorraine
 - Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/)
 
