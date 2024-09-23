@@ -1,12 +1,12 @@
 ## Education
-**Ph.D., Computer Science**
--([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) | Loria, IECL, University of Lorraine (_July 2024_), under the supervision of [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+**Ph.D., Computer Science, (_July 2024_)**
+-([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) | Loria, IECL, University of Lorraine, under the supervision of [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
 
-**Engineer's degree, Digital System Engineering**
--ENSEM, University of Lorraine (_June 2020_), Ranking 2/29 (2nd yr), 2/31	(3rd yr)				       		
+**Engineer's degree, Digital System Engineering, (_June 2020_)**
+-ENSEM, University of Lorraine, Ranking 2/29 (2nd yr), 2/31	(3rd yr)				       		
 
-**Master's degree, Network Security and Virtual Architecture**
--Dual degrees with Engineer's degree, University of Lorraine (_June 2020_)	 			        		
+**Master's degree, Network Security and Virtual Architecture, (_June 2020_)**
+-Dual degrees with Engineer's degree, University of Lorraine 	 			        		
 
 ## Work Experience
 **Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)**
