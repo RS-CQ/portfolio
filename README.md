@@ -1,15 +1,7 @@
 ## Research interests
 My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on 1)security and resilient trust-based systems in the 
 service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused performance evaluation in 5G-enabled Internet of Vehicles.
-
-## Education
-- PhD in Computer Science at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
-
-
-- Engineer's degree in Digital System Engineering, (_June 2020_)
--[ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine： Ranking 2/29 (2nd yr), 2/31	(3rd yr)				       		
-
-- M.S. in Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree, University of Lorraine 	 			        		
+ 			        		
 
 ## Work Experience
 - Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
@@ -19,6 +11,15 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 - Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
 -Department of Computer Science, ENSEM (Teaching)
 -Loria, University of Lorraine (Research)
+
+## Education
+- PhD in Computer Science at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+
+
+- Engineer's degree in Digital System Engineering, (_June 2020_)
+-[ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine： Ranking 2/29 (2nd yr), 2/31	(3rd yr)				       		
+
+- M.S. in Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree, University of Lorraine 	
 
 ## Selected Publications
 1. Su, Runbo, et al. "Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model." Internet of Things 26 (2024): 101213. [DOI](https://doi.org/10.1016/j.iot.2024.101213)
@@ -35,3 +36,5 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 -2022-2023  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming;&ensp 3). Algorithms and object-oriented programming; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
 -2023-2024  (Engineer's/Master's degree, at ENSEM): 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming; &emsp; 3). Algorithms and object-oriented programming; &emsp; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); &emsp; 5). Databases (SQL + MongoDB)      &emsp; 6).  Algorithms of data structures (Java); &emsp; 7). Digital integration with microcontrollers (IoT + Arduino); &emsp; 8). Cryptography, Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, Cybersecurity: firewall + attack test); &emsp; 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); &emsp; 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); &emsp; 11). C language coding; &emsp; 12).Twizzy Project (Real-time road sign recognition based Twizzy car); &emsp; 13). Distributed systems: Edge/Fog computing (same as No.9); 
+
+
