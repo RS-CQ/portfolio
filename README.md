@@ -9,8 +9,9 @@
 
 
 ## Research interests
-My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on 1)security and resilient trust-based systems in the 
-service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused performance evaluation in 5G-enabled Internet of Vehicles.
+My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on:
+- Security and resilient trust-based systems in the service-oriented Internet of Things
+- Quality of Service (QoS)-focused performance evaluation and reliability in 5G-enabled Internet of Vehicles.
  			        		
 
 ## Work Experience
