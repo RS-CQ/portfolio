@@ -48,6 +48,6 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 1. Elsevier Computer Networks Journal (_2023 - Present_)
 2. Elsevier Internet of Things Journal (_2024 - Present_)
 
-## Follow me
-- ![](/images/orcid_resized1.png)
-- ![](/images/linkedin_reresized2.jpg)
+
+- [![](/images/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
+- [![](/images/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
