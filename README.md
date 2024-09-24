@@ -15,12 +15,12 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 
 ## Work Experience
 - Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
--Loria/Inria, University of Lorraine
--Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/)
+<br /> Loria/Inria, University of Lorraine
+<br /> Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/) 
 
 - Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
--Department of Computer Science, ENSEM (Teaching)
--Loria, University of Lorraine (Research)
+<br /> Department of Computer Science, ENSEM (Teaching)
+<br /> Loria, University of Lorraine (Research)
 
 
 ## Selected Publications
@@ -32,22 +32,27 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 8. Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. "Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems." DCOSS-IoT 2024. 2024. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 9. PhD [Thesis](https://theses.fr/api/v1/document/2024LORR0054) (July 2024)
 
-## Projects
-1. [COMMITS](https://commits.loria.fr/) short for COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems (_Sept. 2024 - Present_): This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.
-2. [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems (_Oct.. 2020 - June. 2024_): This project aims to analyze the main mathematical properties of this stochastic matching model, and to develop the tools to optimize its behavior.
+## Project Participation
+- [COMMITS](https://commits.loria.fr/) short for COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems (_Sept. 2024 - Present_): This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.
+
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems (_Oct.. 2020 - June. 2024_): This project aims to analyze the main mathematical properties of this stochastic matching model, and to develop the tools to optimize its behavior.
 
 
 ## Teaching Experience
--2021-2022 at ENSEM: 1). Algorithms and programming (Python); &emsp; 2). Algorithms and object-oriented programming (Python+Java)
+- 2021-2022 at ENSEM:
+<br /> 1). Algorithms and programming (Python); <br /> 2). Algorithms and object-oriented programming (Python+Java)
 
--2022-2023 at ENSEM: 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming;&ensp 3). Algorithms and object-oriented programming; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
+- 2022-2023 at ENSEM: <br /> 1). Software tool cycle: introductory course; <br /> 2). Algorithms and programming; <br /> 3). Algorithms and object-oriented programming; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
--2023-2024 at ENSEM: 1). Software tool cycle: introductory course; &emsp; 2). Algorithms and programming; &emsp; 3). Algorithms and object-oriented programming; &emsp; 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); &emsp; 5). Databases (SQL + MongoDB)      &emsp; 6).  Algorithms of data structures (Java); &emsp; 7). Digital integration with microcontrollers (IoT + Arduino); &emsp; 8). Cryptography, Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, Cybersecurity: firewall + attack test); &emsp; 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); &emsp; 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); &emsp; 11). C language coding; &emsp; 12).Twizzy Project (Real-time road sign recognition based Twizzy car); &emsp; 13). Distributed systems: Edge/Fog computing (same as No.9); 
+- 2023-2024 at ENSEM: <br /> 1). Software tool cycle: introductory course; <br /> 2). Algorithms and programming; <br /> 3). Algorithms and object-oriented programming; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); <br /> 5). Databases (SQL + MongoDB)      <br /> 6).  Algorithms of data structures (Java); <br /> 7). Digital integration with microcontrollers (IoT + Arduino); <br /> 8). Implementation and Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); <br /> 10). Internet of Things application implementation (IoT implementation using Pycom cards, NodeRed, and MySQL); <br /> 11). C language coding; <br /> 12).Twizzy Project (Real-time road sign recognition based Twizzy car); <br /> 13). Distributed systems: Edge/Fog computing (same as No.9); 
 
 ## Peer-review Service
-1. Elsevier Computer Networks Journal (_2023 - Present_)
-2. Elsevier Internet of Things Journal (_2024 - Present_)
+- Elsevier Computer Networks Journal (_2023 - Present_)
+- Elsevier Internet of Things Journal (_2024 - Present_)
 
-
+## Contact
+- [Email(Lab.)](runbo.su@inria.fr?subject=[GitHub]%20Source%20Han%20Sans) 
+- [Email College](runbo.su@univ-lorraine.fr?subject=[GitHub]%20Source%20Han%20Sans) 
 - [![](/images/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
 - [![](/images/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
+
