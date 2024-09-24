@@ -36,7 +36,7 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 ## Project Participation
 - [COMMITS](https://commits.loria.fr/) short for COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems (_Sept. 2024 - Present_): This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.
 
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems (_Oct.. 2020 - June. 2024_): This project aims to analyze the main mathematical properties of this stochastic matching model, and to develop the tools to optimize its behavior.
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems (_Oct.. 2020 - June. 2024_): This project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior.
 
 
 ## Teaching Experience
