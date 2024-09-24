@@ -1,5 +1,5 @@
 ## Education
-- PhD in Computer Science at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/)
+- PhD at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) (_July 2024_)
 
 
 - Engineer's degree in Digital System Engineering, (_June 2020_)
