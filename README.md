@@ -3,7 +3,7 @@
 
 
 - Engineer's degree in Digital System Engineering, (_June 2020_)
--[ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine： Ranking 2/29 (2nd yr), 2/31	(3rd yr)				       		
+-[ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine： Ranking: 2/29 (2nd yr), 2/31	(3rd yr)				       		
 
 - M.S. in Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree, University of Lorraine 	
 
