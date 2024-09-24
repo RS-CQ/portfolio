@@ -51,8 +51,8 @@ service-oriented Internet of Things, and 2) Quality of Service (QoS)-focused per
 - Elsevier Internet of Things Journal (_2024 - Present_)
 
 ## Contact
-- [Email(Lab.)](runbo.su@inria.fr?subject=[GitHub]%20Source%20Han%20Sans) 
-- [Email College](runbo.su@univ-lorraine.fr?subject=[GitHub]%20Source%20Han%20Sans) 
+- [Email(Lab.)](mailto:runbo.su@inria.fr) 
+- [Email College](mailto:runbo.su@univ-lorraine.fr) 
 - [![](/images/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
 - [![](/images/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
 
