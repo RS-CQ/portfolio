@@ -7,7 +7,7 @@
 <br /> Digital System Engineering, Rankings: 2/29 (2nd yr), 2/31	(3rd yr)	       		
 
 - M.S., _June 2020_, University of Lorraine 	
-<br /> Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree
+<br /> Network Security and Virtual Architecture, dual degrees with Engineer's degree
 
 ## Research interests
 My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on:
@@ -35,9 +35,9 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 9. PhD Thesis, "_Trust management in Service-Oriented IoT._", [pdf](https://theses.fr/api/v1/document/2024LORR0054) (July 2024)
 
 ## Project Participation
-- [COMMITS](https://commits.loria.fr/) short for COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems (_Sept. 2024 - Present_): This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.
+- [COMMITS](https://commits.loria.fr/) short for _COnverged coMMunication, control and scheduling Infrastructure for multi pods-based Transport Systems_: This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.(_Sept. 2024 - Present_)
 
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems (_Oct.. 2020 - June. 2024_): This project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior.
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) short for _Matching Architectures that Connect heterogeneous users and healthcare Efficient Systems_: This project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior. (_Oct.. 2020 - June. 2024_)
 
 
 ## Teaching Experience
