@@ -1,12 +1,13 @@
 ## Education
-- PhD at [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/) ([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)), University of Lorraine, under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) (_July 2024_)
+- PhD, _July 2024_, [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/), University of Lorraine
+<br />([Thesis FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
 
 
-- Engineer's degree in Digital System Engineering, (_June 2020_)
--[ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine： Ranking: 2/29 (2nd yr), 2/31	(3rd yr)				       		
+- Engineer's degree, _June 2020_, [ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine 
+<br /> Digital System Engineering, Ranking: 2/29 (2nd yr), 2/31	(3rd yr)	       		
 
-- M.S. in Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree, University of Lorraine 	
-
+- M.S., _June 2020_, University of Lorraine 	
+<br /> Network Security and Virtual Architecture, (_June 2020_), dual degrees with Engineer's degree
 
 ## Research interests
 My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on:
