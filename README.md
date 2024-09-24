@@ -18,7 +18,7 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 ## Work Experience
 - Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
 <br /> Loria/Inria, University of Lorraine
-<br /> Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/) 
+<br /> _Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/)_ 
 
 - Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
 <br /> Department of Computer Science, ENSEM (Teaching)
