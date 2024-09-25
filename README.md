@@ -53,6 +53,7 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 - 2022-2023 at ENSEM: <br /> 1-3). Same as in 2021-2022; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
 - 2023-2024 at ENSEM: <br /> 1-4) Same as in 2022-2023; <br /> 5). Databases (SQL + MongoDB)      <br /> 6).  Algorithms of data structures (Java); <br /> 7). Digital integration with microcontrollers (IoT + Arduino); <br /> 8). Implementation and Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C language coding (C-based Game + TCP/IP); <br /> 12). Twizzy Project (Real-time road sign recognition based Twizzy car);
+
 ## Peer-review Service
 - Elsevier Computer Networks Journal (_2023 - Present_)
 - Elsevier Internet of Things Journal (_2024 - Present_)
