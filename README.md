@@ -35,9 +35,11 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 9. PhD Thesis, "_Trust management in Service-Oriented IoT._", [pdf](https://theses.fr/api/v1/document/2024LORR0054) (July 2024)
 
 ## Project Participation
-- [COMMITS](https://commits.loria.fr/) (_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_), this project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.(_Sept. 2024 - Present_)
+- [COMMITS](https://commits.loria.fr/) (_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
+<br /> This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.(_Sept. 2024 - Present_)
 
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_), this project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior. (_Oct.. 2020 - June. 2024_)
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
+<br /> This project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior. (_Oct.. 2020 - June. 2024_)
 
 
 ## Teaching Experience
