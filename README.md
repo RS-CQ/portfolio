@@ -18,7 +18,7 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 ## Work Experience
 - Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
 <br /> Loria/Inria, University of Lorraine
-<br /> _Simulation-based performance study of 5G/TSN application in [Urbanloop](https://urbanloop.fr/)_ 
+<br /> _Simulation-based performance study of 5G application in [Urbanloop](https://urbanloop.fr/)_ 
 
 - Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
 <br /> Department of Computer Science, ENSEM (Teaching)
@@ -46,9 +46,9 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 - 2021-2022 at ENSEM:
 <br /> 1). Algorithms and programming (Python); <br /> 2). Algorithms and object-oriented programming (Python+Java)
 
-- 2022-2023 at ENSEM: <br /> 1). Software tool cycle: introductory course; <br /> 2). Algorithms and programming; <br /> 3). Algorithms and object-oriented programming; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
+- 2022-2023 at ENSEM: <br /> 1-3). Same as in 2021-2022; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
 
-- 2023-2024 at ENSEM: <br /> 1). Software tool cycle: introductory course; <br /> 2). Algorithms and programming; <br /> 3). Algorithms and object-oriented programming; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc); <br /> 5). Databases (SQL + MongoDB)      <br /> 6).  Algorithms of data structures (Java); <br /> 7). Digital integration with microcontrollers (IoT + Arduino); <br /> 8). Implementation and Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C language coding (Little Game + TCP/IP); <br /> 12).Twizzy Project (Real-time road sign recognition based Twizzy car);
+- 2023-2024 at ENSEM: <br /> 1-4) Same as in 2022-2023; <br /> 5). Databases (SQL + MongoDB)      <br /> 6).  Algorithms of data structures (Java); <br /> 7). Digital integration with microcontrollers (IoT + Arduino); <br /> 8). Implementation and Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C language coding (C-based Game + TCP/IP); <br /> 12). Twizzy Project (Real-time road sign recognition based Twizzy car);
 ## Peer-review Service
 - Elsevier Computer Networks Journal (_2023 - Present_)
 - Elsevier Internet of Things Journal (_2024 - Present_)
