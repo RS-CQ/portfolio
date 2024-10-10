@@ -31,11 +31,11 @@ My research interests lie in the trustworthiness and reliability of cyber-physic
 
 ## Selected Publications
 1. Su, Runbo, et al. "_Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model._" Internet of Things 26 (2024): 101213. [DOI](https://doi.org/10.1016/j.iot.2024.101213)
-2. Su, Runbo, et al. "_Ensuring trustworthiness in ioit/aiot: A phase-based approach._" IEEE Internet of Things Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190)
-3. Su, Runbo, et al. "_A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT._" 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON). In 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON) (pp. 195-203). IEEE. [DOI](https://doi.org/10.1109/SECON58729.2023.10287527), [pdf](https://hal.science/hal-04205286v1/document) 
+2. Su, Runbo, et al. "_Ensuring trustworthiness in ioit/aiot: A phase-based approach._" IEEE IoT Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190)
+3. Su, Runbo, et al. "_A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT._" 2023 20th IEEE SECON (pp. 195-203). [DOI](https://doi.org/10.1109/SECON58729.2023.10287527), [pdf](https://hal.science/hal-04205286v1/document) 
 5. Su, Runbo, Yujun Jin, and Ye-Qiong Song. "_Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV._" In VEHITS (pp. 276-283).[DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
-7. Su, Runbo, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" 2021 International Conference on Computer Communications and Networks (ICCCN) In 2021 International Conference on Computer Communications and Networks (ICCCN) (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
-8. Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" DCOSS-IoT 2024. 2024. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
+7. Su, Runbo, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" 2021 IEEE ICCCN (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
+8. Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" 2024 IEEE DCOSS-IoT. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 9. PhD Thesis, "_Trust management in Service-Oriented IoT._", [pdf](https://theses.fr/api/v1/document/2024LORR0054) (July 2024)
 
 ## Project Participation
