@@ -1,7 +1,11 @@
+## 当前情况
+- 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_2024年9月至今_)
+<br /> 法国[Inria国家计算机及自动化研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，Loria计算机研究所, 洛林大学
+<br /> _智能交通的5G应用及性能评估 [Urbanloop](https://urbanloop.fr/)_ 
+
 ## 教育背景
 - 计算机博士, _2024年7月_, [法国Loria计算机研究所](https://www.loria.fr/fr/) and [数学研究所IECL](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
 <br />博士论文 [FCH](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
-
 
 - 工程师文凭, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
 <br /> 数字化系统, 排名: 2/29 (二年级), 2/31	(三年级)	       		
@@ -16,9 +20,6 @@
  			        		
 
 ## 其他教学及研究经历
-- 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_2024年9月至今_)
-<br /> 法国[Inria研究所](https://www.inria.fr/fr/centre-inria-universite-lorraine)，Loria计算机研究所, 洛林大学
-<br /> _智能交通的5G应用及性能评估 [Urbanloop](https://urbanloop.fr/)_ 
 
 - 教学及研究助理 @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_2023年9月 - 2024年8月_)
 <br /> 计算机系, 法国ENSEM工程师学院 (教学）
