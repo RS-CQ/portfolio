@@ -32,15 +32,15 @@
 
 ## 近四年论文发表情况
 
-| 论文编号  | 一作 | 刊/会等级  | 出版社 |
+| 编号| 一作 | 刊/会等级  | 出版社 |
 | ------------- | ------------- | ------------- | ------------- |
-| 1  | √  | Q1(JCR), SCI  | Elsevier |
-| 2  | √  | -  | IEEE  |
-| 3  | √  | A,A,B (GSS) | IEEE  |
-| 4  | √  | A+,B,B (GSS)  | ACM  |
-| 5  | √  | C(Core)  | Scitepress  |
-| 6  | √  | A-,B,B (GSS) | IEEE  |
-| 7  | √  | B,B (GSS) | IEEE  |
+| 1| √  | Q1(JCR), SCI  | Elsevier |
+| 2 | √  | -  | IEEE  |
+| 3 | √  | A,A,B (GSS) | IEEE  |
+| 4 | √  | A+,B,B (GSS)  | ACM  |
+| 5 | √  | C(Core)  | Scitepress  |
+| 6 | √  | A-,B,B (GSS) | IEEE  |
+| 7 | √  | B,B (GSS) | IEEE  |
 
 1. **Su, Runbo**, et al. "_Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model._" Internet of Things 26 (2024): 101213. [DOI](https://doi.org/10.1016/j.iot.2024.101213)
 2. **Su, Runbo**, et al. "_Ensuring trustworthiness in ioit/aiot: A phase-based approach._" IEEE IoT Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190)
