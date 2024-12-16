@@ -1,66 +1,83 @@
-## Education
-- PhD, _July 2024_, [Loria](https://www.loria.fr/fr/) and [IECL](https://iecl.univ-lorraine.fr/), University of Lorraine
-<br />Thesis [FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) under the supervision of Prof. [Enrico Natalizio](https://www.tii.ae/team/prof-enrico-natalizio) and Prof. [Pascal Moyal](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
+## 教育背景
+- 计算机博士, _2024年7月_, [Loria计算机研究所](https://www.loria.fr/fr/) and [数学研究所IECL](https://iecl.univ-lorraine.fr/), 法国洛林大学
+<br />博士论文 [FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) 博士导师 [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
 
 
-- Engineer's degree, _June 2020_, [ENSEM](https://ensem.univ-lorraine.fr/), University of Lorraine 
-<br /> Digital System Engineering, rankings: 2/29 (2nd yr), 2/31	(3rd yr)	       		
+- 工程师文凭, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
+<br /> 数字化系统, 排名: 2/29 (二年级), 2/31	(三年级)	       		
 
-- M.S., _June 2020_, University of Lorraine 	
-<br /> Network Security and Virtual Architecture, dual degrees with Engineer's degree
+- 硕士文凭, _2020年6月_, 法国洛林大学 	
+<br /> 信息与系统安全
 
-## Research interests
-My research interests lie in the trustworthiness and reliability of cyber-physic systems (CPS). In particular, my current research focuses on:
-- Security and resilient trust-based systems in the service-oriented Internet of Things
-- Quality of Service (QoS)-focused performance evaluation and reliability in 5G-enabled Internet of Vehicles.
+## 研究方向及兴趣
+我的研究方向主要在网络物理系统（CPS）的可信性和可靠性。目前，我的研究主要集中在：
+- 面向服务的物联网中基于信任的数学建模及性能评估。
+- 5G车联网及智能交通中以服务质量（QoS）为重点的性能评估和可靠性研究。
  			        		
 
-## Work Experience
-- Research Engineer @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
-<br /> Inria/Loria, University of Lorraine
-<br /> _Simulation-based performance study of 5G application in [Urbanloop](https://urbanloop.fr/)_ 
+## 其他教学及研究经历
+- 博士后 @ Team [Resist](https://team.inria.fr/resist/) (_Sept. 2024 - Present_)
+<br /> 法国Inria研究所，Loria计算机研究所, 洛林大学
+<br /> _智能交通的5G应用及性能评估 [Urbanloop](https://urbanloop.fr/)_ 
 
-- Teaching and Research Assistant @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
-<br /> Department of Computer Science, ENSEM (Teaching)
-<br /> Loria, University of Lorraine (Research)
+- 教学及研究助理 @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_Sept. 2023 - Aug. 2024_)
+<br /> 计算机系, 法国ENSEM工程师学院 (教学）
+<br /> Loria计算机研究所 (研究)
 
 <!-- - Intern. @ Team Simbiot (_Mar. 2020 - Sept. 2020_))
 (-<br />  Loria, University of Lorraine) 
 (-<br /> _QoS management in SDN (Software Defined Networking): Delay focused study_) -->
 
 
-## Selected Publications
-1. Su, Runbo, et al. "_Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model._" Internet of Things 26 (2024): 101213. [DOI](https://doi.org/10.1016/j.iot.2024.101213)
-2. Su, Runbo, et al. "_Ensuring trustworthiness in ioit/aiot: A phase-based approach._" IEEE IoT Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190)
-3. Su, Runbo, et al. "_A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT._" In 2023 20th IEEE SECON (pp. 195-203). [DOI](https://doi.org/10.1109/SECON58729.2023.10287527), [pdf](https://hal.science/hal-04205286v1/document) 
-5. Su, Runbo, Yujun Jin, and Ye-Qiong Song. "_Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV._" In 2024 VEHITS (pp. 276-283).[DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
-7. Su, Runbo, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" In 2021 IEEE ICCCN (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
-8. Su, Runbo, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" In 2024 IEEE DCOSS-IoT. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
-9. PhD Thesis, "_Trust management in Service-Oriented IoT._", [pdf](https://theses.fr/api/v1/document/2024LORR0054) (July 2024)
+## 近四年论文发表情况
 
-## Project Participation
-- [COMMITS](https://commits.loria.fr/) (_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
-<br /> This project aims to develop a converged communication, control and scheduling infrastructure to build a cyber-physical system for managing the Urbanloop transport network at a large scale.(_Sept. 2024 - Present_)
+| 论文编号  | 一作 | 刊/会等级  | 出版社 |
+| ------------- | ------------- | ------------- | ------------- |
+| 1  | √  | Q1(JCR), SCI  | Elsevier |
+| 2  | √  | -  | IEEE  |
+| 3  | √  | A,A,B (GSS) | IEEE  |
+| 4  | √  | A+,B,B (GSS)  | ACM  |
+| 5  | √  | C(Core)  | Scitepress  |
+| 6  | √  | A-,B,B (GSS) | IEEE  |
+| 7  | √  | B,B (GSS) | IEEE  |
 
-- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
-<br /> This project aims to analyze the main mathematical properties of this stochastic matching model and to develop the tools to optimize its behavior. (_Oct.. 2020 - June. 2024_)
+1. **Su, Runbo**, et al. "_Assessing intra-and inter-community trustworthiness in IoT: A role-based attack-resilient dynamic trust management model._" Internet of Things 26 (2024): 101213. [DOI](https://doi.org/10.1016/j.iot.2024.101213)
+2. **Su, Runbo**, et al. "_Ensuring trustworthiness in ioit/aiot: A phase-based approach._" IEEE IoT Magazine, 5(2), 84-88.[DOI](https://doi.org/10.1109/IOTM.001.2100190)
+3. **Su, Runbo**, et al. "_A Game Theoretical Model addressing Misbehavior in Crowdsourcing IoT._" In 2023 20th IEEE SECON (pp. 195-203). [DOI](https://doi.org/10.1109/SECON58729.2023.10287527), [pdf](https://hal.science/hal-04205286v1/document)
+4. **Su, Runbo**, & Saint-Jore, Amaury. "_A Role-based Trust Model assessing IoA services: First Results on Real MAS Implementation by using ROS 2._" In 2023 EWSN (pp. 293-296).[DOI](https://dl.acm.org/doi/abs/10.5555/3639940.3639978), [pdf](https://hal.science/hal-04161463v1/file/EWSN23_WIP.pdf)
+5. **Su, Runbo**, Yujun Jin, and Ye-Qiong Song. "_Assessing Trustworthiness of V2X Messages: A Cooperative Trust Model Against CAM-and CPM-Based Ghost Vehicles in IoV._" In 2024 VEHITS (pp. 276-283).[DOI](https://doi.org/10.5220/0012605200003702), [pdf](https://hal.science/hal-04453209v4/file/Vehist.pdf)
+6. **Su, Runbo**, et al. "_PDTM: Phase-based dynamic trust management for Internet of things._" In 2021 IEEE ICCCN (pp. 1-7). IEEE. [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522234), [pdf](https://hal.science/hal-03322831v1/file/Su-PDTM.pdf), [video](https://www.youtube.com/playlist?list=PLzIU1iYy4sJjPSz7HjvMLYme7z4D1E4KW)
+7. **Su, Runbo**, Arbia Riahi Sfar, and Pascal Moyal. "_Game theoretical analysis of strategy changes and influence factors in Crowdsourcing IoT systems._" In 2024 IEEE DCOSS-IoT. [DOI](https://doi.org/10.1109/DCOSS-IoT61029.2024.00048), [pdf](https://hal.science/hal-04564953/document)
 
 
-## Teaching Experience
-- 2021-2022 at ENSEM:
-<br /> 1). Algorithms and programming (Python); <br /> 2). Algorithms and object-oriented programming (Python+Java)
+## 参与项目
+- [COMMITS](https://commits.loria.fr/) (法国ANR项目_**CO**nverged co**MM**unication, control and scheduling **I**nfrastructure for multi pods-based **T**ransport **S**ystems_)
+<br /> 该项目旨在开发融合通信、控制和调度的基础设施，以构建一个网络物理系统，用于大规模管理智能交通网络。.(_Sept. 2024 - Present_)
 
-- 2022-2023 at ENSEM: <br /> 1-3). Same as in 2021-2022; <br /> 4). Sensor networks (General IoT, MQTT, NodeRed, XBEE, LoRa, etc)
+- [MATCHES](https://anr.fr/Project-ANR-18-CE40-0019) (法国ANR项目：_**M**atching **A**rchitectures **T**hat **C**onnect heterogeneous users and **H**ealthcare **E**fficient **S**ystems_)
+<br /> 该项目旨在分析这种随机匹配模型的主要数学特性，并开发优化其行为的工具。 (_2020年10月-2024年6月_)
 
-- 2023-2024 at ENSEM: <br /> 1-4) Same as in 2022-2023; <br /> 5). Databases (SQL + MongoDB)      <br /> 6).  Algorithms of data structures (Java); <br /> 7). Digital integration with microcontrollers (IoT + Arduino); <br /> 8). Implementation and Cyber-security of industrial systems (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). Distributed systems, web services, and blockchain (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C language coding (C-based Game + TCP/IP); <br /> 12). Twizzy Project (Real-time road sign recognition based Twizzy car);
 
-## Peer-review Service
-- Elsevier Computer Networks Journal (_2022 - Present_)
-- Elsevier Internet of Things Journal (_2024 - Present_)
+## 教学经验
+- 2021-2022年，法国ENSEM工程师学院:
+<br /> 1). 算法与编程 (Python); <br /> 2). 算法与面向对象的变成 (Python+Java)
 
-## Contact
+- 2022-2023年，法国ENSEM工程师学院: <br /> 1-3). Same as in 2021-2022; <br /> 4). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
+
+- 2023-2024年，法国ENSEM工程师学院: <br /> 1-4) Same as in 2022-2023; <br /> 5). 数据库 (SQL + MongoDB)      <br /> 6). 算法及数据结构 (Java); <br /> 7). 微控制器的数字集成 (IoT + Arduino); <br /> 8). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). 分布式系统 (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C 语言编程 (C-based Game + TCP/IP); <br /> 12). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
+
+## 审稿工作
+- Elsevier Computer Networks Journal (_2022年至今_)
+- Elsevier Internet of Things Journal (_2024年至今_)
+
+## 联系方式
 - [Email@lab](mailto:runbo.su@inria.fr) 
 - [Email@univ](mailto:runbo.su@univ-lorraine.fr) 
 - [![](/images/orcid_resized2.png)](https://orcid.org/0000-0001-5116-8207)
 - [![](/images/linkedin_reresized4.jpg)](https://www.linkedin.com/in/runbo-su-ab32a3151/)
+
+
+
+
+
 
