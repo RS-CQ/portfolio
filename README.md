@@ -1,6 +1,6 @@
 ## 教育背景
-- 计算机博士, _2024年7月_, [Loria计算机研究所](https://www.loria.fr/fr/) and [数学研究所IECL](https://iecl.univ-lorraine.fr/), 法国洛林大学
-<br />博士论文 [FCH](https://www.mdpi.com/1424-8220/22/8/3048](https://www.fr-hermite.univ-lorraine.fr/these-federation-charles-hermite)) 博士导师 [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
+- 计算机博士, _2024年7月_, [法国Loria计算机研究所](https://www.loria.fr/fr/) and [数学研究所IECL](https://iecl.univ-lorraine.fr/), 洛林大学
+<br />博士论文 [FCH](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
 
 
 - 工程师文凭, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
