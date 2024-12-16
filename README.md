@@ -62,13 +62,14 @@
 - 2021-2022年，法国ENSEM工程师学院:
 <br /> 1). 算法与编程 (Python); <br /> 2). 算法与面向对象的变成 (Python+Java)
 
-- 2022-2023年，法国ENSEM工程师学院: <br /> 1-3). Same as in 2021-2022; <br /> 4). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
+- 2022-2023年，法国ENSEM工程师学院: <br /> 1-2) 同2021-2022年课程; <br /> 4). 无线感测网络 (General IoT, MQTT, NodeRed, XBEE, LoRa, 等等)
 
-- 2023-2024年，法国ENSEM工程师学院: <br /> 1-4) Same as in 2022-2023; <br /> 5). 数据库 (SQL + MongoDB)      <br /> 6). 算法及数据结构 (Java); <br /> 7). 微控制器的数字集成 (IoT + Arduino); <br /> 8). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). 分布式系统 (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C 语言编程 (C-based Game + TCP/IP); <br /> 12). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
+- 2023-2024年，法国ENSEM工程师学院: <br /> 1-4) 同2021-2022年课程 2022-2023; <br /> 5). 数据库 (SQL + MongoDB)      <br /> 6). 算法及数据结构 (Java); <br /> 7). 微控制器的数字集成 (IoT + Arduino); <br /> 8). 工业系统的实施和网络安全 (LADDER language on OpenPLC, IHM on ScadaBR, firewall + attack test); <br /> 9). 分布式系统 (Task distribution, mutual exclusion); <br /> 10). IoT implementation (by using Pycom cards, NodeRed, and MySQL); <br /> 11). C 语言编程 (C-based Game + TCP/IP); <br /> 12). Twizzy 项目 (基于Twizzy 汽车实时路标识别);
 
 ## 审稿工作
 - Elsevier Computer Networks Journal (_2022年至今_)
 - Elsevier Internet of Things Journal (_2024年至今_)
+- 2025 ICCCN TPC member
 
 ## 联系方式
 - [Email@lab](mailto:runbo.su@inria.fr) 
