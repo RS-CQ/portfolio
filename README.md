@@ -19,7 +19,7 @@
 - 5G车联网及智能交通中以服务质量（QoS）为重点的性能评估和可靠性研究。
  			        		
 
-## 其他教学及研究经历
+## 其他经历
 
 - 教学及研究助理 @ Team [Simbiot](https://simbiot.gitlabpages.inria.fr/web/index.html) (_2023年9月 - 2024年8月_)
 <br /> 计算机系, 法国ENSEM工程师学院 (教学）
