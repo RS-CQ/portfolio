@@ -5,13 +5,13 @@
 
 ## 教育背景
 - 计算机博士, _2024年7月_, [法国Loria计算机研究所](https://www.loria.fr/fr/) and [数学研究所IECL](https://iecl.univ-lorraine.fr/), [洛林大学](https://www.univ-lorraine.fr/)
-<br />博士论文 [FCH](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
+<br />博士课题：面向服务的物联网中的信任管理， [博士论文](https://docnum.univ-lorraine.fr/public/DDOC_T_2024_0054_SU.pdf); 导师: [Enrico Natalizio 教授](https://www.tii.ae/team/prof-enrico-natalizio) and [Pascal Moyal 教授](https://iecl.univ-lorraine.fr/membre-iecl/moyal-pascal/) 
 
 - 工程师文凭, _2020年6月_, [法国ENSEM工程师学院](https://ensem.univ-lorraine.fr/), 法国洛林大学 
-<br /> 数字化系统, 排名: 2/29 (二年级), 2/31	(三年级)	       		
+<br /> 数字化系统，硕士课题：SDN网络中的QoS：延迟管理，导师 [Ye-Qiong Song 教授](https://members.loria.fr/YQSong/)     		
 
 - 硕士文凭, _2020年6月_, 法国洛林大学 	
-<br /> 信息与系统安全
+<br /> 信息与系统安全，工程师学位双文凭
 
 ## 研究方向及兴趣
 我的研究方向主要在网络物理系统（CPS）的可信性和可靠性。目前，我的研究主要集中在：
